@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/tahajud"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tahajjud"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/witir"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Witir"
+        android:textSize="20sp" />
+
+
+    <TextView
+        android:id="@+id/rawatib"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Rawatib"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/dhuha"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dhuha"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/istikhoroh"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Istikhoroh"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/tahiyyatulMasjid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tahiyyatul Masjid"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/sholatSyuruq"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sholat Syuruq"
+        android:textSize="20sp" />
+
+
+
+</android.support.v7.widget.LinearLayoutCompat>
